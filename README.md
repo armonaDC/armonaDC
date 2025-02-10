@@ -1,4 +1,9 @@
 ## Hi there 👋
+ - 👋 Hi, I'm Derek Carmona
+ - 🌱 I'm a student at San Diego State University studying Computer Engineering
+ - 👀 I'm interested in Embedded Systems & Frontend/Backend web development
+ - 🎓 I have an A.S. from College of the Desert
+
 
 <!--
 **armonaDC/armonaDC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
