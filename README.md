@@ -1,7 +1,7 @@
 ## Hi there 👋
  - 👋 Hi, I'm Derek Carmona
  - 🌱 I'm a student at San Diego State University studying Computer Engineering
- - 👀 I'm interested in Embedded Systems & Frontend/Backend web development
+ - 🔭 Looking for an internship and professional experience
  - 🎓 I have an A.S. from College of the Desert
 
 
