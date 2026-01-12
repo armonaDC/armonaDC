@@ -1,8 +1,7 @@
 ## Hi there 👋
  - 👋 Hi, I'm Derek Carmona
- - 🌱 I'm an undergraduate senior at San Diego State University studying Computer Engineering
- - 🔭 Looking for an internship and professional experience
- - 🎓 I have an A.S. from College of the Desert
+ - 🌱 I'm a recent graduate from San Diego State University with a B.S. in Computer Engineering
+ - 🔭 Looking for professional experience
 
 
 <!--
