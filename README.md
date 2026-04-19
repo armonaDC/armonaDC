@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋
  - 👋 Hi, I'm Derek Carmona
  - 🌱 I'm a recent graduate from San Diego State University with a B.S. in Computer Engineering
  - 🔭 Looking for professional experience
